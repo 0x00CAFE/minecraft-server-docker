@@ -1,0 +1,5 @@
+/dir/data/*
+!/dir/data/.gitkeep
+
+/dir/web/*
+!/dir/web/.gitkeep
